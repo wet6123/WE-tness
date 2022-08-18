@@ -3,8 +3,8 @@ import { Button, ButtonGroup } from '@mui/material';
 import styled from 'styled-components';
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
-import camSet from '../../assets/images/tutorial/camSet.PNG';
-import test from '../../assets/images/tutorial/test.PNG';
+import cam1 from '../../assets/images/tutorial/cam1.png';
+import cam2 from '../../assets/images/tutorial/cam2.png';
 
 const Box = styled.div`
   display: flex;
@@ -32,17 +32,21 @@ const Buttons = styled.div`
 `;
 
 const ImgCard = styled.div`
+  width: 1090px;
   border-radius: 10px;
   box-shadow: 0px 3px 3px -2px rgb(0 0 0 / 20%), 0px 3px 4px 0px rgb(0 0 0 / 14%), 0px 1px 8px 0px rgb(0 0 0 / 12%);
+  > * {
+    width: 100%;
+  }
 `;
 
 const tittle = ['Camera Setting', 'Posture'];
 const workout = ['스쿼트', '팔굽혀펴기', '버피', '런지'];
 const article = [
-  [camSet, test, '스쿼트3', '스쿼트4'],
-  [camSet, '팔굽2'],
-  [camSet, '버피2'],
-  [camSet, '런지2'],
+  [cam1, cam2, '스쿼트3', '스쿼트4'],
+  [cam1, cam2, '팔굽2'],
+  [cam1, cam2, '버피2'],
+  [cam1, cam2, '런지2'],
 ];
 
 export default function TutorialPage() {
@@ -83,7 +87,7 @@ export default function TutorialPage() {
           )}
         </ButtonGroup>
       </div>
-      {nowIdx <= 0 ? <Tittle>{tittle[0]}</Tittle> : <Tittle>{tittle[1]}</Tittle>}
+      {nowIdx <= 1 ? <Tittle>{tittle[0]}</Tittle> : <Tittle>{tittle[1]}</Tittle>}
       <Buttons>
         <Button onClick={() => handlePrev()}>
           <ArrowBackIosNewIcon />
