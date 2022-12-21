@@ -2,6 +2,7 @@
 ### WebRTC와 모션인식을 활용한 운동 게임 서비스
 
 <br>
+<img width="50%" src="https://user-images.githubusercontent.com/61536153/208925456-84989509-fbb3-46fd-b9fe-dd4cfa00c921.png"/>
 <br>
 
 
@@ -41,33 +42,33 @@ https://user-images.githubusercontent.com/61536153/194935846-74eae361-f25f-4e32-
 
 ### 게임 화면 - 플레이 화면
 
-![게임 화면 - 플레이 화면](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/b485df7cf9311b8b437274397405b813/_EC_83_88_EB_A1_9C_EC_9A_B4__ED_94_84_EB_A1_9C_EC_A0_9D_ED_8A_B8.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208926054-543204ae-9cb7-408d-84f0-a7dba806ebbe.gif"/>
 
 ### 운동 - 푸시업
 
-![운동 - 푸시업](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/2a66ffbbb9d9dd970c86de7accf0b4e8/_ED_91_B8_EC_8B_9C_EC_97_85-min.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208926656-fd2da801-aa87-4f10-a72a-d26a817cc363.gif"/>
 
 ### 운동 - 런지
 
-![운동 - 런지](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/33bf6319d58d1d23cf8972e9813aa997/_EB_9F_B0_EC_A7_80-min.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208926746-80218316-edaf-46f0-b127-3bbe8331aecd.gif"/>
 
 ### 운동 -스쿼트
 
-![운동 - 스쿼트](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/e197dae8fbc924f0bde96e50c8994e10/_EC_8A_A4_EC_BF_BC_ED_8A_B8-min.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208926800-62ddd15f-a194-4a0b-8593-2c96ab1f4259.gif"/>
 
 ### 운동 - 버피
 
-![운동 - 버피](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/dac453436ea79005a5e51e53c8b9e79d/_EB_B2_84_ED_94_BC-min.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208926910-242d7420-fb7f-43aa-8ab1-057553cb42c7.gif"/>
 
 ### Teachable Machine - 버피, 스쿼트, 푸시업, 런지
 
-![버피](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/d3de737643a0f3af72838b7682439c3c/_EB_B2_84_ED_94_BC__EB_AA_A8_EC_85_98_EC_BA_A1_EC_B2_98.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927023-4f34ad41-dd21-44c2-a15c-aac3cf5acdf5.gif"/>
 
-![스쿼트](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/b6f2732d14cdb4163f5267f17b240b62/_ED_91_B8_EC_8B_9C_EC_97_85__EB_AA_A8_EC_85_98_EC_BA_A1_EC_B2_98.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927051-bc89c278-dbdc-4acc-ab62-6d292378d57b.gif"/>
 
-![푸시업](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/6d8f6d679b5145afa9a4d3a45a718acd/_EC_8A_A4_EC_BF_BC_ED_8A_B8__EB_AA_A8_EC_85_98_EC_BA_A1_EC_B2_98.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927101-9093c2b4-92af-4d75-ae90-5f5a087349a0.gif"/>
 
-![런지](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/9c31dcaaf15d4b44b116faac27f27c0f/_EB_9F_B0_EC_A7_80__EB_AA_A8_EC_85_98_EC_BA_A1_EC_B2_98.gif)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927134-f14eea89-8bcd-4c99-802b-3968bd9f9de6.gif"/>
 
 <br>
 <br>
@@ -77,11 +78,11 @@ https://user-images.githubusercontent.com/61536153/194935846-74eae361-f25f-4e32-
 
 ### 홈 화면 - 현재 생성된 방
 
-![home](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/6fc0655417e4a2f36e5ba3bc4071bd30/home.png)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927338-1f72409b-72dd-48bc-8f36-f4b5b05821e4.png"/>
 
 ### 방 생성 - 게임 종류, 제목 및 암호 설정
 
-![room_create](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/fc435434194bccdfdd3c921fbadada58/room_create.png)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927408-998d8c20-537f-4471-8110-bf8e2835c02a.png"/>
 
 ### 튜토리얼 - 카메라 세팅 및 운동 별 가이드
 
@@ -138,7 +139,7 @@ https://user-images.githubusercontent.com/61536153/194935846-74eae361-f25f-4e32-
 
 ### Technical Architecture Diagram
 
-![wetness_archi__1_](https://lab.ssafy.com/s07-webmobile1-sub2/S07P12A205/uploads/546abfed1fd1a0dc861352219b1a66db/wetness_archi__1_.jpg)
+<img width="70%" src="https://user-images.githubusercontent.com/61536153/208927649-942362f4-4919-4606-a408-bdb4ca677cde.jpg"/>
 
 
 ## 🤸‍♀️ 팀원 소개
